@@ -1,0 +1,33 @@
+body {
+    font-family: 'Comic Neue', cursive;
+    background-color: lightblue;
+}
+
+.header_div {
+    color: darkcyan;
+}
+
+.header_div p {
+    color: black;
+    font-family: 'Comic Neue', cursive;
+    font-weight: 400;
+    letter-spacing: normal;
+    font-size: 15px;
+}
+
+#classify {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    width: fit-content;
+    font-weight: 200;
+    color: blue;
+    background-color: cornflowerblue;
+}
+
+#copy_right_footer {
+    background-color: cornflowerblue;
+    font-size: 20px;
+    height: 55pxpx;
+    margin-top: 60px;
+}
